@@ -9,7 +9,7 @@ void main()
   int YourLotteryNo;  
    
   
-printf("We want Grade A naja \n");
+printf("We really want Grade A naja \n");
 printf("Enter your Lottery Number (0 to end): "); 
   scanf("%d", &YourLotteryNo); 
   while (YourLotteryNo != 0) 
